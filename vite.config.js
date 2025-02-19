@@ -9,5 +9,5 @@ export default defineConfig({
     port: 5173, // Ensure the correct port is set
     open: true,  // Opens browser automatically
   },
-  base: './', // Ensure correct base path
+  base: "./", // Ensure correct base path
 });
